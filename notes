@@ -1,0 +1,7 @@
+The structure of a project is as follows.
+{
+    id: 'autogen',
+    project_name: project_name,
+    project_size: num of file in project folder,
+    location: workspace\\project_folder_actual_loction
+}
